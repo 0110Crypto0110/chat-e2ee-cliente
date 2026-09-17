@@ -1,0 +1,1 @@
+#Mova a função de conexão por socket TCP e a thread de recepção de mensagens
