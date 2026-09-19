@@ -1,1 +1,0 @@
-#Gerenciamento isolado das chaves do canal (servidor) e das chaves E2EE de cada contato
