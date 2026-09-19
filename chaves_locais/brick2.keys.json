@@ -1,0 +1,10 @@
+{
+  "privada": "6MZZMsJWIzKsiMTm3Jdv0AtuDmivrhCFoN5QDClNSro=",
+  "publica": "VXN0AW7b9b/lGLJ8Zx1e1V/6vFsgcdEuWCrRCpMOdmA=",
+  "contatos": {
+    "brick": {
+      "aes": "TDOKjpJX79M8MH122Q1W+nM71WplrifhaBj0rCmkxys=",
+      "hmac": "K8cRheexzgObZnsTVO/e3bDH8+gKq3mOMKShVkFUXSU="
+    }
+  }
+}
