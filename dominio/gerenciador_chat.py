@@ -1,1 +1,0 @@
-#Controle do estado das conversas e sessão do usuário[5].
