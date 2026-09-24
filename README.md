@@ -173,7 +173,3 @@ clienteRedes/
    Para testar a conversa entre dois ou mais usuários na mesma máquina, abra múltiplos terminais e execute `python cliente.py` em cada um deles, registrando ou autenticando contas diferentes (ex: `alice` e `bob`).
 
 ---
-
-## 👤 Autor
-* **Victor Torres** (Desenvolvimento & Arquitetura)  
-* **Disciplina**: Segurança da Informação / Redes de Computadores — UABJ/UFRPE
