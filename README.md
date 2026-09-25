@@ -175,5 +175,5 @@ clienteRedes/
 ---
 
 ## 👤 Autor
-* **Victor Torres** (Desenvolvimento & Arquitetura)  
+* **João Ricardo & Vinicius Lira** (Desenvolvimento & Arquitetura)  
 * **Disciplina**: Segurança da Informação / Redes de Computadores — UABJ/UFRPE
