@@ -1,0 +1,16 @@
+{
+  "x25519": {
+    "privada": "ZkaIUQ9nLnwucKOGTsU6IpduxcKR9pw6YdrHkw7GFfU=",
+    "publica": "PQPHhFieBeisGPwHhkaKXDN1Jyo+r4DRG3vSNS5MdV0="
+  },
+  "ed25519": {
+    "privada": "YkpPPyeoUfngUfBOwpa9VVjXtG0FTPfvZA70rHqGsCQ=",
+    "publica": "YmxF+5OaD8P49JLN/Ud6agOuezH/Ok1eDOL98kq4tCA="
+  },
+  "contatos": {
+    "brick": {
+      "aes": "hDFNbF/g4ykHfi0Yd90fi710qZOIuC/Vy+/h59GucCY=",
+      "hmac": "ZvDG/SmayPNQlf61RsOTEM7TjLc1JGawwG0DfzziTQk="
+    }
+  }
+}

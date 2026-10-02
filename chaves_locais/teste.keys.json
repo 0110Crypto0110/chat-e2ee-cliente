@@ -1,0 +1,11 @@
+{
+  "x25519": {
+    "privada": "9V5QvFPDlihUUq6CbpFcVZU+A76YMBNBaTvDIyeQFNc=",
+    "publica": "EfIlMOSVEfpYQGmnQ3KRqMYhRwEyW7fvBLBS28a3qnI="
+  },
+  "ed25519": {
+    "privada": "TzjY5BUXYttoAfROhcTvYK9EoiP3GP3iBq4XknYgD+o=",
+    "publica": "MHT6t+xHzXlxcQv944adlv7XrrVGrGf4Xvtm65oOtXY="
+  },
+  "contatos": {}
+}
